@@ -1,0 +1,54 @@
+* package-template.el
+
+Write some desctiptions here.
+
+[[img.png]]
+
+** Usage
+
+#+BEGIN_SRC emacs-lisp
+(princ
+"＿人人人人人人＿
+＞　突然の死　＜
+￣Y^Y^Y^Y^Y^Y^￣
+　　　　　　👑
+　　　　（💩💩💩）
+　　　（💩👁💩👁💩）
+　　（💩💩💩👃💩💩💩）
+　（💩💩💩💩👄💩💩💩💩）")
+#+END_SRC
+
+** Install
+
+- 
+
+#+BEGIN_SRC emacs-lisp
+;; package.el(MELPA)
+(package-install 'package-template)
+
+;; El-Get
+(el-get 'sync 'package-template)
+#+END_SRC
+
+
+** Copyright
+   : package-template.el --- Template of Emacs Lisp Package
+   : Copyright (C) 2021 eggplants
+   : 
+   : This program is free software; you can redistribute it and/or modify
+   : it under the terms of the GNU General Public License as published by
+   : the Free Software Foundation, either version 3 of the License, or
+   : (at your option) any later version.
+   : 
+   : This program is distributed in the hope that it will be useful,
+   : but WITHOUT ANY WARRANTY; without even the implied warranty of
+   : MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   : GNU General Public License for more details.
+   : 
+   : You should have received a copy of the GNU General Public License
+   : along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+*** links
+
+- [[http://example.com][example link]]
