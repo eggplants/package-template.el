@@ -18,16 +18,23 @@ Write some desctiptions here.
 　（💩💩💩💩👄💩💩💩💩）")
 #+END_SRC
 
+#+RESULTS:
+"＿人人人人人人＿
+＞　突然の死　＜
+￣Y^Y^Y^Y^Y^Y^￣
+　　　　　　👑
+　　　　（💩💩💩）
+　　　（💩👁💩👁💩）
+　　（💩💩💩👃💩💩💩）
+　（💩💩💩💩👄💩💩💩💩）"
+
 ** Install
 
-- 
+- Here is an example of installation...
 
 #+BEGIN_SRC emacs-lisp
-;; package.el(MELPA)
+;; MELPA
 (package-install 'package-template)
-
-;; El-Get
-(el-get 'sync 'package-template)
 #+END_SRC
 
 
